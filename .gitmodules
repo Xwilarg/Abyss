@@ -1,0 +1,3 @@
+[submodule "Abyss/Discord-Utils"]
+	path = Abyss/Discord-Utils
+	url = https://github.com/Xwilarg/Discord-Utils
